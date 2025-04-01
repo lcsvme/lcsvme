@@ -8,7 +8,10 @@ Hey there! My name is Luan. I'm a 18-year-old and currently reside in Brasília,
 
  **Applications**
  
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-3670A0?style=for-the-badge&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3670A0?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-3670A0?style=for-the-badge&logo=react&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -18,8 +21,6 @@ Hey there! My name is Luan. I'm a 18-year-old and currently reside in Brasília,
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![PyCharm](https://img.shields.io/badge/PyCharm-333333?logo=PyCharm&logoColor=white)
-![CLion](https://img.shields.io/badge/clion-333333?logo=clion&logoColor=white)
 
 **Contact Me**
 
