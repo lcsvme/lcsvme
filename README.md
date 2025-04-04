@@ -13,7 +13,7 @@ I'm currently working as an **IT Intern at the Tribunal Superior do Trabalho (TS
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white) <br>
+![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-000000?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=white)
@@ -24,7 +24,7 @@ I'm currently working as an **IT Intern at the Tribunal Superior do Trabalho (TS
 **Languages**   
 🇧🇷 Portuguese: Native  
 🇺🇸 English: Fluent  
-🇮🇹 Italian: Basic
+🇮🇹 Italian: Basic<br>
 🇪🇸 Spanish: Basic  
 
 
