@@ -22,6 +22,7 @@ I'm passionate about full-stack development, always exploring new technologies a
 **Languages & Frameworks**
 
 ![Python](https://img.shields.io/badge/python-000000?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/java-000000?style=for-the-badge&logo=openJDK&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-000000?style=for-the-badge&logo=javascript&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-000000?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/react-000000?style=for-the-badge&logo=react&logoColor=white)
@@ -55,4 +56,6 @@ I'm passionate about full-stack development, always exploring new technologies a
 
 <a href="https://github.com/lcsvme" title="Luan Vieira's GitHub Profile">
   <img src="https://github-readme-stats.vercel.app/api?username=lcsvme&show_icons=true&include_all_commits=true&theme=github_dark&hide_border=false" height="150" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=lcsvme&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=github_dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+
 </a>
