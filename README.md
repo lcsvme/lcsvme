@@ -8,7 +8,7 @@
 
 ## About Me
 
-Hello! I'm Luan, 19 years old,  born in Brasília, Brazil.  
+Hello! I'm Luan, 20 years old,  born in Brasília, Brazil.  
 I'm currently pursuing a Bachelor's degree in **Computer Science** at **UDF - Centro Universitário do Distrito Federal**, expected to graduate in **December 2026**.
 
 I work as an **IT Intern at the Tribunal Superior do Trabalho (TST)**, contributing to the development and maintenance of internal systems using **TypeScript** and **React**. My responsibilities include system analysis, implementation, testing, and issue resolution.
